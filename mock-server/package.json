@@ -1,0 +1,16 @@
+{
+  "name": "shopping-list-server-mock",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.0",
+    "nodemon": "^1.18.7"
+  }
+}
